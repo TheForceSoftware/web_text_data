@@ -4,42 +4,47 @@
 
         {
             "title": "Title",
-            "description": "The Force Software company"
+            "description": "The Force Software company."
         },
 
         {
             "title": "Description",
-            "description": "The Force es una empresa que hace desarrollo de IOS"
+            "description": "The Force es una empresa que hace desarrollo de IOS e integra IA en sus procesos de desarollo y en los mismos productos."
         },
         
         {
-            "title": "h1",
-            "description": "El h1 es Unlock the Power of Apple"
+            "title": "Frase principal",
+            "description": "Unlock the Power of Great Developers."
         },
 
         {
-            "title": "h2",
-            "description": "El h2 es Specialists in the development of applications for the apple ecosystem"
+            "title": "Frase secundaria",
+            "description": "Specialists in the development of applications for the apple ecosystem."
         },
 
         {
-            "title": "Menu",
-            "description": "El menu o categorias de la pagina son Services About us y Contact us"
+            "title": "Acerca de la pagina",
+            "description": "La pagina web de The Force contiene las siguientes secciones: Home, Services, About Us y Contact Us."
+        },
+
+        {
+            "title": "Servicios",
+            "description": "The Force tiene los siguientes servicios: IAProducts (Desarrollo de productos digitales con IA), digital product development y staff augmentation."
         },
         
         {
             "title": "IAProducts",
-            "description": "Dentro de la categoria o seccion Services esta la subseccion IA Products y esta tiene o es el siquiente texto Our company specializes in the development of artificial intelligence based applications that leverage the power of ChatGPT We create innovative solutions that use ChatGPT as a core engine, enabling advanced and natural interaction with users. Our applications revolutionize the way services are delivered by leveraging ChatGPTs natural language processing capabilities delivering compelling and highly personalized experiences"
+            "description": "IA Products, Our company specializes in the development of artificial intelligence based applications that leverage the power of ChatGPT We create innovative solutions that use ChatGPT as a core engine, enabling advanced and natural interaction with users. Our applications revolutionize the way services are delivered by leveraging ChatGPTs natural language processing capabilities delivering compelling and highly personalized experiences"
         },
         
         {
             "title": "DigitalProductDevelopment",
-            "description": "Dentro de la categoria o seccion Services esta la subseccion Digital product development y esta tiene o es el siquiente texto Application development for IOS IpadOs  MacOs Convierte tus ideas en realidad con nuestras soluciones personalizadasExperiencia en el desarrollo nativo para dispositivos Apple"
+            "description": "Convierte tus ideas en realidad con nuestras soluciones personalizadasExperiencia en el desarrollo nativo para dispositivos Apple"
         },
         
         {
             "title": "StaffAugmentation",
-            "description": "Dentro de la categoria o seccion Services esta la subseccion Staff augmentation services y esta tiene o es el siquiente texto Through our staff augmentation services, we provide experienced professionals to seamlessly integrate with your team, augmenting your workforce and expertise to meet project demands effectively"
+            "description": "Through our staff augmentation services, we provide experienced professionals to seamlessly integrate with your team, augmenting your workforce and expertise to meet project demands effectively"
         }
     ]
 }
